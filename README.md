@@ -1,3 +1,13 @@
+# Personal Portfolio
+
+This is a personal portfolio website built with React and Tailwind CSS.
+
+## To get started:
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
